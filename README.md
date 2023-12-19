@@ -55,7 +55,9 @@ Tras probarlo de esta manera, también existe la opción de integrarlo como fich
 
 ![image](https://github.com/jvidalhern/ComponenteTimer/assets/150078940/5b2d6aa1-e9cb-4185-866e-af191af6254a)
 
-Tras crear el fichero .jar ayudandonos en Maven:
+Tras crear el fichero .jar ayudandonos en Maven con los siguientes comandos o ejecutando "mvn clean package":
+
+![image](https://github.com/jvidalhern/ComponenteTimer/assets/150078940/fff3a8fb-0e98-4604-b3c9-4d43b5f5542a)
 
 ![image](https://github.com/jvidalhern/ComponenteTimer/assets/150078940/3eb16514-10d8-423f-8a1d-bd2fd3602a24)
 
